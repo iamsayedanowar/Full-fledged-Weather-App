@@ -1,4 +1,4 @@
-![Forecast24x7](https://raw.githubusercontent.com/sayedanowar/Full-fledged-Weather-App/main/img/GitHub%20Repository%20Image.png)
+![Forecast24x7](https://raw.githubusercontent.com/iamsayedanowar/Full-fledged-Weather-App/refs/heads/main/img/GRP.png)
 
 # Forecast24x7
 
