@@ -22,17 +22,3 @@ Before running the project, you need to add your `OpenWeatherMap API` key to the
 ## Tech Stack
 
 **Front-End :** HTML, CSS, JavaScript
-
-## Contributing
-
-Contributions are always welcome! Feel free to open an issue, fork the repository, and submit a pull request.
-
-## Screenshots
-
-### Desktop View
-
-![App Screenshot](https://raw.githubusercontent.com/sayedanowar/Full-fledged-Weather-App/main/img/preview.png)
-
-### Mobile View
-
-![App Screenshot](https://raw.githubusercontent.com/sayedanowar/Full-fledged-Weather-App/main/img/view.png)
