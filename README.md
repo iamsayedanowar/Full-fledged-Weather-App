@@ -2,10 +2,6 @@
 
 # Forecast24x7
 
-A Weather App Using OpenWeatherMap API, Built With HTML, CSS, And JavaScript For Real-time Weather Updates.
-
-## Description
-
 Forecast24x7 is a web application that provides real-time weather updates based on the user's location or a specified location. It utilizes the OpenWeatherMap API to fetch weather data and displays it in an easy-to-understand format.
 
 ## Instructions
